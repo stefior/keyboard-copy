@@ -3,7 +3,6 @@
     "name": "Keyboard Copy",
     "version": "1.0.1",
     "description": "Quickly copy any text on the page with just your keyboard.",
-    "permissions": ["activeTab"],
     "background": {
         "service_worker": "background.js"
     },
